@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9962343f4792a86b39afaa93cb9bcee",
+    "revision": "df25d1ddd028127726ae04b52596c884",
     "url": "/forgerson-dev/index.html"
   },
   {
-    "revision": "34f2a1dba4b302a8ee35",
-    "url": "/forgerson-dev/static/css/main.3d5bdff1.chunk.css"
+    "revision": "745bb5cd034131a3f0a6",
+    "url": "/forgerson-dev/static/css/main.20d5b020.chunk.css"
   },
   {
     "revision": "be856ae15635096f246a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/forgerson-dev/static/js/2.011bee90.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "34f2a1dba4b302a8ee35",
-    "url": "/forgerson-dev/static/js/main.0d856022.chunk.js"
+    "revision": "745bb5cd034131a3f0a6",
+    "url": "/forgerson-dev/static/js/main.6d657ce6.chunk.js"
   },
   {
     "revision": "fbf30660edb01cced0c0",
