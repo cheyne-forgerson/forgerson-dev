@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df25d1ddd028127726ae04b52596c884",
+    "revision": "b96fd8c01ed884d497d7bc53cd73b07c",
     "url": "/forgerson-dev/index.html"
   },
   {
