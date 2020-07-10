@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/forgerson-dev/static/css/main.f2e8aafd.chunk.css",
-    "main.js": "/forgerson-dev/static/js/main.5752290c.chunk.js",
-    "main.js.map": "/forgerson-dev/static/js/main.5752290c.chunk.js.map",
+    "main.css": "/forgerson-dev/static/css/main.3bea3f55.chunk.css",
+    "main.js": "/forgerson-dev/static/js/main.eb794773.chunk.js",
+    "main.js.map": "/forgerson-dev/static/js/main.eb794773.chunk.js.map",
     "runtime-main.js": "/forgerson-dev/static/js/runtime-main.8e19fc2f.js",
     "runtime-main.js.map": "/forgerson-dev/static/js/runtime-main.8e19fc2f.js.map",
     "static/js/2.011bee90.chunk.js": "/forgerson-dev/static/js/2.011bee90.chunk.js",
     "static/js/2.011bee90.chunk.js.map": "/forgerson-dev/static/js/2.011bee90.chunk.js.map",
     "index.html": "/forgerson-dev/index.html",
-    "precache-manifest.2cfb784ad1e05660a1591ff55511f874.js": "/forgerson-dev/precache-manifest.2cfb784ad1e05660a1591ff55511f874.js",
+    "precache-manifest.4d7862a1b6a7fef6da37afc743d376a9.js": "/forgerson-dev/precache-manifest.4d7862a1b6a7fef6da37afc743d376a9.js",
     "service-worker.js": "/forgerson-dev/service-worker.js",
-    "static/css/main.f2e8aafd.chunk.css.map": "/forgerson-dev/static/css/main.f2e8aafd.chunk.css.map",
+    "static/css/main.3bea3f55.chunk.css.map": "/forgerson-dev/static/css/main.3bea3f55.chunk.css.map",
     "static/js/2.011bee90.chunk.js.LICENSE.txt": "/forgerson-dev/static/js/2.011bee90.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8e19fc2f.js",
     "static/js/2.011bee90.chunk.js",
-    "static/css/main.f2e8aafd.chunk.css",
-    "static/js/main.5752290c.chunk.js"
+    "static/css/main.3bea3f55.chunk.css",
+    "static/js/main.eb794773.chunk.js"
   ]
 }
