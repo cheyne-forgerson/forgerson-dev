@@ -1,0 +1,38 @@
+.navContainer {
+    box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.75);
+    border-radius: 1.5%;
+    background-color: #aacfd0;
+    color: black;
+    z-index: 3;
+    width: 70vmin;
+    height: 70vmin;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    display: grid;
+    grid-template-columns: 5% 90% 5%;
+    grid-template-rows: 5% 45% 45% 5%;
+    justify-content: center;
+    align-content: center;
+    text-align: center
+  }
+  
+  .navInfoContainer {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .navSocialContainer {
+    grid-column: 2 / 3;
+    grid-row: 3 / 4;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+  }
